@@ -54,9 +54,9 @@ class Samra:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 Obstacle Avoiding Robot | Autonomous robot with ultrasonic sensing & servo-based scanning | AVR Assembly · ATmega328P |
-| 🏎️ Line Follower Robot | Competition bot following a track using IR sensors | Arduino · C++ |
-| 👁️ License Plate Recognition | CV pipeline for vehicle plate detection & OCR | Python · YOLOv8 · OpenCV |
+|  Obstacle Avoiding Robot | Autonomous robot with ultrasonic sensing & servo-based scanning | AVR Assembly · ATmega328P |
+|  2D CyberShooter game | Space arcade game | Python · Pycharm  | 
+
 
 ---
 
