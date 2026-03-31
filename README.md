@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=160&section=header&text=Samra%20Mehmood&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20%40%20NUST%20MCS%20Campus&descAlignY=55&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=160&section=header&text=Samra%20Mehmood&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Electrical%20Engineering%20%40%20NUST&descAlignY=55&descSize=15"/>
 
 </div>
 
