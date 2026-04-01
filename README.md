@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=140&section=header&text=Samra%20Mehmood&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%40%20NUST%20MCS&descAlignY=58&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=140&section=header&text=Samra%20Mehmood&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%40%20NUST&descAlignY=58&descSize=14"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=4A9EDB&center=true&vCenter=true&width=480&lines=Embedded+Systems+%7C+Robotics+%7C+FPGA;Computer+Vision+%7C+Generative+AI;2nd+Year+EE+%E2%80%94+Building+cool+things)](https://git.io/typing-svg)
 
