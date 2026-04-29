@@ -39,8 +39,11 @@ class Samra:
 ---
 
 **Currently Exploring**
+- Radar & Optical Sensing: Deep-diving into EMFT applications for signal detection and tracking.
+- EV Power Systems
 - Generative AI & LLMs
 - Advanced Microprocessor Design (8086)
+- Hardware-AI Integration
 
 ---
 
