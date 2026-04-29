@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=140&section=header&text=Samra%20Mehmood&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%40%20NUST&descAlignY=58&descSize=14"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1200&color=4A9EDB&center=true&vCenter=true&width=480&lines=Embedded+Systems+%7C+Robotics+%7C+FPGA;Computer+Vision+%7C+Generative+AI;2nd+Year+EE+%E2%80%94+Building+cool+things)](https://git.io/typing-svg)
-
 </div>
 
 ---
@@ -20,6 +19,7 @@ class Samra:
 **Languages & Tools**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -33,14 +33,13 @@ class Samra:
 
 | Project | Stack |
 |---------|-------|
-| Obstacle Avoiding Robot — autonomous ultrasonic + servo scanning | AVR Assembly · ATmega328P |
-| CyberShooter DSA — neon space shooter with custom Stack & Queue | Python · Pygame |
+| [WALL-E — Autonomous Obstacle-Avoiding Robot](https://github.com/Samra761/obstacle-avoiding-robot-avr) | Pure C · AVR-GCC · ATmega328P |
+| [CyberShooter DSA — neon space shooter with custom Stack & Queue](https://github.com/Samra761/Cyber-Shooter-Game-Python-DSA) | Python · Pygame |
 
 ---
 
 **Currently Exploring**
-
-- Generative AI & LLMs  
+- Generative AI & LLMs
 - Advanced Microprocessor Design (8086)
 
 ---
@@ -50,5 +49,4 @@ class Samra:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samra-mehmood)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=90&section=footer"/>
-
 </div>
