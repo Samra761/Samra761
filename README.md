@@ -40,7 +40,7 @@ class Samra:
 **Currently Exploring**
 - Transmission Lines & Waveguides (EE-343)
 - Digital Signal Processing (EE-330)
-- Power Distribution Systems — hands-on at IESCO
+- Power Distribution Systems 
 - FPGA & advanced Verilog design
 
 ---
