@@ -11,7 +11,6 @@ class Samra:
     university = "NUST"
     degree     = "B.E. Electrical Engineering — Semester 4 Complete"
     focus      = ["Bare-Metal Firmware", "Analog Circuit Design", "FPGA Systems"]
-    currently  = "Interning at IESCO · Building embedded systems"
 ```
 
 ---
