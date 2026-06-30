@@ -79,9 +79,15 @@ class Samra:
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samra761&theme=tokyo-night&hide_border=true"/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samra761&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile Views](https://komarev.com/ghpvc/?username=Samra761&color=4A9EDB&style=flat-square&label=Profile+Views)
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samra761/Samra761/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samra761/Samra761/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Samra761/Samra761/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
