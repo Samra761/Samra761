@@ -66,7 +66,6 @@ class Samra:
 - Transmission Lines & Waveguides (EE-343)
 - Digital Signal Processing (EE-330)
 - FreeRTOS on STM32 Nucleo
-- Advanced Verilog & FPGA design
 
 ---
 
@@ -76,8 +75,6 @@ class Samra:
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samra761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samra761&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samra761&theme=tokyonight&hide_border=true"/>
 
 </div>
 
