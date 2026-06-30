@@ -73,10 +73,8 @@ class Samra:
 ### GitHub Stats
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samra761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samra761&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+<img height="165em" src="https://github-readme-stats-boie0opgv-samra762.vercel.app/api?username=Samra761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats-boie0opgv-samra762.vercel.app/api/top-langs/?username=Samra761&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samra761&theme=tokyo-night&hide_border=true"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Samra761&color=4A9EDB&style=flat-square&label=Profile+Views)
