@@ -14,7 +14,7 @@
 ```python
 class Samra:
     university   = "Military College of Signals, NUST"
-    degree       = "B.E. Electrical Engineering — 3rd Year"
+    degree       = "B.E. Electrical Engineering — Completed 4th Semester"
     focus        = ["Embedded Systems", "Firmware", "Computer Vision", "Geometric Deep Learning"]
     based_in     = "Rawalpindi, Pakistan"
     currently    = "Exploring internships in embedded systems & AI/ML"
@@ -66,6 +66,7 @@ class Samra:
 - Transmission Lines & Waveguides (EE-343)
 - Digital Signal Processing (EE-330)
 - FreeRTOS on STM32 Nucleo
+- Advanced Verilog & FPGA design
 
 ---
 
@@ -73,8 +74,12 @@ class Samra:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samra761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samra761&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samra761&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samra761&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Samra761&theme=tokyo-night&hide_border=true"/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Samra761&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
