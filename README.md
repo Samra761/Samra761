@@ -59,7 +59,7 @@ class Samra:
 ### Currently
 
 - Power Systems Intern @ IESCO 132KV Grid Station I-10, Islamabad (8 weeks)
-- ML Internship @ ITSOLERA — Remote (6 weeks)
+- ML Internship @ ITSOLERA — Remote (8 weeks)
 
 ### Currently Exploring
 
