@@ -63,10 +63,10 @@ class Samra:
 
 ### Currently Exploring
 
-- Transmission Lines & Waveguides (EE-343)
-- Digital Signal Processing (EE-330)
-- FreeRTOS on STM32 Nucleo
-- Advanced Verilog & FPGA design
+- Signals and Systems
+- Electrical Machines
+- MATLAB
+- Machine Learning
 
 ---
 
