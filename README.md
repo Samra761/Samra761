@@ -13,7 +13,7 @@
 
 ```python
 class Samra:
-    university   = "Military College of Signals, NUST"
+    university   = "NUST"
     degree       = "B.E. Electrical Engineering — Completed 4th Semester"
     focus        = ["Embedded Systems", "Firmware", "Computer Vision", "Geometric Deep Learning"]
     based_in     = "Rawalpindi, Pakistan"
